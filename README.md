@@ -7,4 +7,6 @@
 - 🎥 Follow me on [Twitch](https://www.twitch.tv/azzamaddouri) for game development and live coding sessions.
 
 ### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzamaddouri&layout=compact&theme=default)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamaddouri&layout=compact&theme=default" style="width: 100%;" />
+</div>
