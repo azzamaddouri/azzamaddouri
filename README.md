@@ -1,7 +1,4 @@
-## Hi, I'm Azza Maddouri, CS Engineer 👩‍💻
-
-- Passionate about:
-  - 📱 Everything related to mobile and game development 🎮.
-  - 🆕 Staying updated with the latest trends.
-- 📢 Join my [Discord server](https://discord.gg/FGUBgVE9wx) for updates and discussions on mobile development (frontend and backend).
-- 🎥 Follow me on [Twitch](https://www.twitch.tv/apalindromestring) for game development and live coding sessions.
+## Welcome back! I'm Azza, aka *apalindromestring*
+Feel free to:
+- 📢 Join my [Discord server](https://discord.gg/FGUBgVE9wx)
+- 🎥 Follow me on [Twitch](https://www.twitch.tv/apalindromestring)
